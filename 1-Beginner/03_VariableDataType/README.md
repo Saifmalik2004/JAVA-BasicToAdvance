@@ -89,7 +89,43 @@ In Java, you can take input from the user using the `Scanner` class. Depending o
 - Ask the user for their age (`int`), height (`double`), and name (`String`).
 - Use appropriate `Scanner` methods to capture and store these values in variables.
 
-Check out the example code in the `Beginner/03_VariableDataType` folder for hands-on practice.
+---
+## ✍️ Naming Conventions in Java
+
+Naming conventions in Java help make your code more readable, maintainable, and consistent. Following these conventions is considered a good practice. Here's a quick guide:
+
+### 📦 Class Names
+- Class names should be **nouns** that represent objects or entities.
+- Use **PascalCase** (capitalize the first letter of each word).
+- Example: 
+  - `Student`, `ShoppingCart`, `EmployeeDetails`
+
+### 🖋️ Variable Names
+- Variable names should be **descriptive** and use **camelCase** (start with a lowercase letter; subsequent words are capitalized).
+- Avoid single-character names (e.g., `x`, `y`) unless used in short loops.
+- Example: 
+  - `totalPrice`, `userName`, `itemCount`
+
+### 🗂️ Constant Names
+- Constants should be **all uppercase** with words separated by underscores (`_`).
+- Example:
+  - `PI`, `MAX_VALUE`, `DEFAULT_PORT`
+
+### ⚙️ Method Names
+- Method names should be **verbs** and use **camelCase**.
+- The name should describe the action performed by the method.
+- Example:
+  - `calculateTotal()`, `getUserName()`, `isAvailable()`
+
+### 🔗 Package Names
+- Package names should be all **lowercase** to avoid conflicts with class names.
+- Use reverse domain name notation (e.g., `com.example.projectname`).
+- Example:
+  - `com.myapp.utils`, `org.companyname.module`
+
+---
+
+By following these conventions, you ensure that your code remains clean, intuitive, and aligned with Java's standard practices. 🎯
 
 ---
 
@@ -120,7 +156,8 @@ If the user enters data that doesn’t match the expected data type, the program
    Boolean variables can only hold `true` or `false` values.
 
 ---
-## Checkout This for Clarify
+## 📝 Hands-On Practice
+Explore the following example files in this repository to deepen your understanding:
 - [DataTypeInput](DataTypeInput.java)
 - [DataTypeDeclaration](DataTypeDeclarations.java)
 
