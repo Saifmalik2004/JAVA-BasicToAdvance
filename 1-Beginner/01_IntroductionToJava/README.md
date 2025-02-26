@@ -121,7 +121,7 @@ Run it to see Java in action! 🎉
   2. **The `main` method** is the starting point of any program.  
   3. We'll discuss more advanced concepts like classes, `static`, and `public` as we progress.  
 
-Feel free to play around with the text inside the quotation marks in `System.out.println` to print anything you like!  
+Feel free to play around with the text inside the quotation marks in `System.out.println` to print anything you like
 
 ---
 
