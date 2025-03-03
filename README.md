@@ -1,5 +1,4 @@
-
-![Java Banner](/public/Java.png)
+<img src="/public/Java.png" alt="banner">
 
 
 # 🚀 Java Learning Hub
