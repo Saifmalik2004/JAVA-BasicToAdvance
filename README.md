@@ -1,4 +1,4 @@
-<img src="/public/Java.png" alt="banner">
+<img src="/public/Java.jpg" alt="banner">
 
 
 # 🚀 Java Learning Hub
