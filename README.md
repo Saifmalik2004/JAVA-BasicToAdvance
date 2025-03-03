@@ -1,4 +1,5 @@
-<img src="/public/Java.jpg" alt="banner">
+<img src="./public/Java.jpg" alt="Banner" style="width:100%; height:auto;">
+
 
 
 # 🚀 Java Learning Hub
