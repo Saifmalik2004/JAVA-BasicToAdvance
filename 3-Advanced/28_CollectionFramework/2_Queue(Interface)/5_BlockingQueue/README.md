@@ -1,6 +1,4 @@
-Here's your **detailed and engaging README** for **BlockingQueue in Java**, following the same structured approach as before.  
 
----
 
 # **BlockingQueue in Java 🚀**  
 

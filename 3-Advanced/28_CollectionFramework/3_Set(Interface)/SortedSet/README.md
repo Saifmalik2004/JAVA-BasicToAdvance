@@ -1,6 +1,4 @@
-Here's a **comprehensive README** for the `SortedSet` interface in Java! 🚀  
 
----
 
 # **SortedSet Interface in Java**  
 
