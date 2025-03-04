@@ -209,8 +209,7 @@ We welcome contributions from the community! If you want to improve this reposit
 ---
 
 ## 🌎 Stay Connected
-📌 **GitHub:** [Your GitHub Profile](https://github.com/yourgithub)
-📌 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourlinkedin)
+📌 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/saif-malik7827)
 
 ---
 
