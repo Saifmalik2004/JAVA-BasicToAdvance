@@ -1,6 +1,4 @@
-Here is a **complete README** for **LinkedHashMap** methods, including descriptions and time complexity.
 
----
 
 # 📌 **Java LinkedHashMap Methods - A Complete Guide**  
 
