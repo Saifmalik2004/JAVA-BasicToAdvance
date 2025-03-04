@@ -15,7 +15,7 @@ A `Set` is a **collection that does not allow duplicate elements**. It models th
 
 ---
 
-Here is the **correct order of the `Set` hierarchy in Java**:
+ `Set` hierarchy in Java**:
 
 ```
 java.lang.Iterable (Interface)

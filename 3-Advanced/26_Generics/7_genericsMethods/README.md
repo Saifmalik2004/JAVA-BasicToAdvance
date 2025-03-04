@@ -1,6 +1,4 @@
-To make the README for "Java Generics: Generic Methods" as comprehensive, clear, and deep as possible, I would enhance the current structure by including the following improvements and additions:
 
----
 
 # Java Generics: Generic Methods
 
